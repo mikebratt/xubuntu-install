@@ -10,4 +10,5 @@ bash setup.sh
 
 **Notes**
 
+https://github.com/pyenv/pyenv
 https://docs.xfce.org/xfce/thunar/archive
