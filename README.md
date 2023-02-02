@@ -8,6 +8,6 @@ cd xubuntu-install
 bash setup.sh
 ```
 
-**References for extras**
+**Notes**
 
 https://docs.xfce.org/xfce/thunar/archive
